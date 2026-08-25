@@ -11,10 +11,10 @@
 
 > A \*\*curated\*\*, \*\*star-ranked\*\*, and \*\*version-tracked\*\* list of everything in the Bevy ecosystem.
 
-[!\[Bevy] https://img.shields.io/badge/Bevy-0.19-ff69b4?logo=rust\&style=for-the-badge)](https://bevy.org/)
-[!\[Rust] (https://img.shields.io/badge/Rust-1.85+-orange?logo=rust\&style=for-the-badge)](https://www.rust-lang.org/)
-[!\[License] (https://img.shields.io/badge/License-CC0-9cf?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
-[!\[Discord] (https://img.shields.io/badge/Discord-Join-7289DA?logo=discord\&style=for-the-badge)](https://discord.gg/bevy)
+[![Bevy](https://img.shields.io/badge/Bevy-0.19-ff69b4?logo=rust&style=for-the-badge)](https://bevy.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.85+-orange?logo=rust&style=for-the-badge)](https://www.rust-lang.org/)
+[![License](https://img.shields.io/badge/License-CC0-9cf?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/bevy)
 
 **Last Updated:** August 2026 | **Total Entries:** 200+
 
@@ -153,15 +153,15 @@ fn main() {
 |[bevy\_enoki](https://github.com/jnhyatt/bevy_enoki)|2D particle system with custom materials. WASM/WebGL2 friendly.|⭐ 150+|0.19|
 |[bevy\_spritesheet\_animation](https://github.com/jnhyatt/bevy_spritesheet_animation)|Easy 2D/3D sprite animation from spritesheets.|⭐ 200+|0.19|
 |[noisy\_bevy](https://github.com/jnhyatt/noisy_bevy)|Simple noise primitives for WGSL and Rust.|⭐ 150+|0.19|
-|\[bevy\_2d\_screen\_space\_lightmaps] (https://github.com/）|Simple 2D lighting via screen-space lightmaps.|⭐ 100+|0.18|
-|\[bevy\_light\_2d] (https://github.com/）|General-purpose drop-in 2D lighting plugin.|⭐ 100+|0.18|
+|[bevy\_2d\_screen\_space\_lightmaps](https://github.com/goto64/bevy_2d_screen_space_lightmaps)|Simple 2D lighting via screen-space lightmaps.|⭐ 100+|0.18|
+|[bevy\_light\_2d](https://github.com/jgayfer/bevy_light_2d)|General-purpose drop-in 2D lighting plugin.|⭐ 100+|0.18|
 |[bevy-magic-light-2d](https://github.com/zaycev/bevy-magic-light-2d)|Experimental dynamic 2D global illumination via SDF ray-marching and bounced light.|⭐ 200+|0.18|
-|\[shadplay] (https://github.com/）|Real-time WGSL shader visualization tool.|⭐ 150+|0.18|
-|\[bevy\_mod\_outline] (https://github.com/）|Mesh outlines via vertex extrusion \& jump flood.|⭐ 200+|0.18|
-|\[bevy\_mod\_mipmap\_generator] (https://github.com/）|Basic mipmap generator for Bevy textures.|⭐ 100+|0.18|
-|\[bevy\_water] (https://github.com/）|Dynamic ocean material for Bevy.|⭐ 150+|0.18|
-|\[bevy\_march] (https://github.com/）|Ray marcher alongside regular mesh rendering.|⭐ 100+|0.18|
-|\[bevy\_materialize] (https://github.com/）|Load, store, and apply type-erased materials.|⭐ 100+|0.18|
+|[shadplay](https://github.com/alphastrata/shadplay)|Real-time WGSL shader visualization tool.|⭐ 150+|0.18|
+|[bevy\_mod\_outline](https://github.com/komadori/bevy_mod_outline)|Mesh outlines via vertex extrusion \& jump flood.|⭐ 200+|0.18|
+|[bevy\_mod\_mipmap\_generator](https://github.com/DGriffin91/bevy_mod_mipmap_generator)|Basic mipmap generator for Bevy textures.|⭐ 100+|0.18|
+|[bevy\_water](https://github.com/Neopallium/bevy_water)|Dynamic ocean material for Bevy.|⭐ 150+|0.18|
+|[bevy\_march](https://github.com/NiseVoid/bevy_march)|Ray marcher alongside regular mesh rendering.|⭐ 100+|0.18|
+|[bevy\_materialize](https://github.com/Noxmore/bevy_materialize)|Load, store, and apply type-erased materials.|⭐ 100+|0.18|
 |**🏛️ `FullscreenMaterial`**|High-level fullscreen post-processing without custom render features.|—|0.18|
 |**🏛️ `ContactShadows`**|Better shadow detail for close-proximity objects.|—|0.19|
 |**🏛️ `RectangularAreaLight`**|Area lighting support.|—|0.19|
@@ -178,8 +178,8 @@ fn main() {
 |[bevy-mouse-tracking](https://github.com/JoJoJet/bevy-mouse-tracking)|Small utility for getting the cursor's world-space position, which Bevy doesn't expose directly out of the box.|⭐ 150+|0.18|
 |[bevy\_pancam](https://github.com/johanhelsing/bevy_pancam)|Drag-to-pan and scroll-to-zoom for orthographic cameras — handy for 2D and city-builder-style games.|⭐ 400+|0.19|
 |[bevy\_flycam](https://github.com/sburris0/bevy_flycam)|Basic first-person fly camera.|⭐ 300+|0.19|
-|\[bevy\_third\_person\_camera] (https://github.com/）|Third-person camera with orbit, follow, collision.|⭐ 200+|0.18|
-|\[bevy\_editor\_cam] (https://github.com/）|Camera controller for editors and CAD applications.|⭐ 150+|0.18|
+|[bevy\_third\_person\_camera](https://github.com/The-DevBlog/bevy_third_person_camera)|Third-person camera with orbit, follow, collision.|⭐ 200+|0.18|
+|[bevy\_editor\_cam](https://github.com/aevyrie/bevy_editor_cam)|Camera controller for editors and CAD applications.|⭐ 150+|0.18|
 |[bevy\_ahoy](https://github.com/janhohenheim/bevy_ahoy)|Lighter kinematic 3D character controller, built specifically for Avian.|⭐ 100+|0.18|
 |[bevy-tnua](https://github.com/idanarye/bevy-tnua)|A "floating" character controller that sits on top of Rapier or Avian.|⭐ 200+|0.18|
 |**🏛️ `AutomaticDirectionalNavigation`**|Built-in gamepad/keyboard UI navigation.|—|0.18|
@@ -197,13 +197,13 @@ fn main() {
 |[Bevy raycast](https://github.com/aevyrie/bevy_mod_raycast)|Simple raycast system for meshes. Basic mesh raycasting is also available via core `bevy::picking` now.|⭐ 400+|0.18|
 |[bevy-tnua](https://github.com/idanarye/bevy-tnua)|A "floating" character controller that sits on top of Rapier or Avian.|⭐ 200+|0.18|
 |[bevy\_ahoy](https://github.com/janhohenheim/bevy_ahoy)|Lighter kinematic 3D character controller, built specifically for Avian.|⭐ 100+|0.18|
-|\[bevy\_heavy] (https://github.com/）|Mass properties for Bevy's geometric primitives.|⭐ 100+|0.19|
-|\[bevy\_transform\_interpolation] (https://github.com/）|Transform interpolation for fixed timesteps.|⭐ 100+|0.19|
-|\[avian\_pickup] (https://github.com/）|Pick up dynamic rigid bodies in Avian.|⭐ 100+|0.19|
-|\[bevy\_mod\_inverse\_kinematics] (https://github.com/）|Inverse kinematics plugin for Bevy.|⭐ 100+|0.18|
+|[bevy\_heavy](https://github.com/avianphysics/bevy_heavy)|Mass properties for Bevy's geometric primitives.|⭐ 100+|0.19|
+|[bevy\_transform\_interpolation](https://github.com/Jondolf/bevy_transform_interpolation)|Transform interpolation for fixed timesteps.|⭐ 100+|0.19|
+|[avian\_pickup](https://github.com/janhohenheim/avian_pickup)|Pick up dynamic rigid bodies in Avian.|⭐ 100+|0.19|
+|[bevy\_mod\_inverse\_kinematics](https://github.com/Kurble/bevy_mod_inverse_kinematics)|Inverse kinematics plugin for Bevy.|⭐ 100+|0.18|
 |**🏛️ `bevy\_picking`**|First-party pointer events: hover, click, drag, input-agnostic. Built-in since Bevy 0.16.|—|0.16+|
 
-> ⚠️ `bevy\_xpbd` has been \*\*rebranded as Avian\*\* and moved to \[AvianPhysics/avian] (https://github.com/avianphysics/avian).
+> ⚠️ `bevy\_xpbd` has been \*\*rebranded as Avian\*\* and moved to [AvianPhysics/avian](https://github.com/avianphysics/avian).
 
 \---
 
@@ -221,16 +221,16 @@ fn main() {
 |[bevy\_ggrs](https://github.com/gschup/bevy_ggrs)|P2P rollback networking plugin. Uses Matchbox for browser P2P.|⭐ 500+|0.19|
 |[bevy\_quinnet](https://github.com/Henauxg/bevy_quinnet)|Client/server networking over QUIC.|⭐ 400+|0.19|
 |[aeronet](https://github.com/aecsocket/aeronet)|Bevy-native networking primitives: fragmentation, reliability, ordering.|⭐ 300+|0.19|
-|\[bevy\_rewind] (https://github.com/）|Server-authoritative rollback inspired by Rocket League.|⭐ 150+|0.18|
-|\[bevy\_streaming] (https://github.com/）|Cloud gaming via WebRTC streaming.|⭐ 100+|0.18|
-|\[bevy\_oxr] (https://github.com/）|OpenXR (and future WebXR) support for Bevy.|⭐ 200+|0.18|
-|\[bevygap] (https://github.com/）|Autoscaling multiplayer servers (Edgegap + Lightyear).|⭐ 100+|0.19|
+|[bevy\_rewind](https://github.com/NiseVoid/bevy_rewind)|Server-authoritative rollback inspired by Rocket League.|⭐ 150+|0.18|
+|[bevy\_streaming](https://github.com/rlamarche/bevy_streaming)|Cloud gaming via WebRTC streaming.|⭐ 100+|0.18|
+|[bevy\_oxr](https://github.com/awtterpip/bevy_oxr)|OpenXR (and future WebXR) support for Bevy.|⭐ 200+|0.18|
+|[bevygap](https://github.com/RJ/bevygap)|Autoscaling multiplayer servers (Edgegap + Lightyear).|⭐ 100+|0.19|
 |[bevy\_replicon\_renet](https://github.com/simgine/bevy_replicon_renet)|Renet backend for bevy\_replicon.|⭐ 200+|0.19|
 |[bevy\_replicon\_quinnet](https://github.com/Henauxg/bevy_replicon_quinnet)|Quinnet backend for bevy\_replicon.|⭐ 150+|0.19|
 |[aeronet\_replicon](https://github.com/aecsocket/aeronet)|Aeronet backend for bevy\_replicon.|⭐ 300+|0.19|
 |[bevy\_replicon\_repair](https://github.com/UkoeHB/bevy_replicon_repair)|Client state repair across reconnects.|⭐ 100+|0.19|
 
-> 📖 \*\*Tutorial:\*\* \[Extreme Bevy — P2P Web Game with GGRS + Matchbox] (https://johanhelsing.studio/posts/extreme-bevy)
+> 📖 \*\*Tutorial:\*\* [Extreme Bevy — P2P Web Game with GGRS + Matchbox](https://johanhelsing.studio/posts/extreme-bevy)
 
 \---
 
@@ -242,17 +242,17 @@ fn main() {
 |[Lunex](https://github.com/bytestring-net/bevy-lunex)|Path-based retained layout engine with an impressive demo. Maintained largely by one university student, so don't expect fast updates during the semester.|⭐ 400+|0.19|
 |[sickle\_ui](https://github.com/UmbraLuminosa/sickle_ui)|A widget library built on top of `bevy\_ui`, still commonly reached for when building complex in-game menus. Check recent commits before depending on it directly — upstream activity has slowed lately.|⭐ 300+|0.18|
 |[haalka](https://github.com/databasedav/haalka)|An ergonomic reactive UI library built on FRP-style signals — a different approach from Lunex or sickle\_ui.|⭐ 150+|0.18|
-|\[bevy\_hui] (https://github.com/）|Component-based UI using XML/HTML with hot reload.|⭐ 100+|0.18|
-|\[bevy\_flair] (https://github.com/）|Bevy UI styling using CSS-like syntax.|⭐ 100+|0.18|
-|\[bevy\_immediate] (https://github.com/）|Immediate mode UI library, simple and extensible.|⭐ 100+|0.18|
-|\[bevy\_material\_ui] (https://github.com/）|Material UI design system for Bevy.|⭐ 100+|0.18|
-|\[bevy\_ui\_anchor] (https://github.com/）|Microlibrary for UI anchoring.|⭐ 100+|0.18|
-|\[bevy\_healthbar\_3d] (https://github.com/）|Billboard health bars as shaders.|⭐ 150+|0.18|
-|\[transform-gizmo] (https://github.com/）|3D transformation gizmo widget.|⭐ 200+|0.18|
-|\[bevy\_ui\_text\_input] (https://github.com/）|Text input using cosmic text.|⭐ 100+|0.18|
-|\[bevy\_simple\_text\_input] (https://github.com/）|Simple single-line text input widget.|⭐ 100+|0.18|
-|\[bevy\_pretty\_text] (https://github.com/）|Text2D effects library.|⭐ 100+|0.18|
-|\[bevy\_rich\_text3d] (https://github.com/）|Mesh-based 3D text implementation.|⭐ 100+|0.18|
+|[bevy\_hui](https://github.com/Lommix/bevy_hui)|Component-based UI using XML/HTML with hot reload.|⭐ 100+|0.18|
+|[bevy\_flair](https://github.com/eckz/bevy_flair)|Bevy UI styling using CSS-like syntax.|⭐ 100+|0.18|
+|[bevy\_immediate](https://github.com/PPakalns/bevy_immediate)|Immediate mode UI library, simple and extensible.|⭐ 100+|0.18|
+|[bevy\_material\_ui](https://github.com/edgarhsanchez/bevy_material_ui)|Material UI design system for Bevy.|⭐ 100+|0.18|
+|[bevy\_ui\_anchor](https://github.com/TotalKrill/bevy_ui_anchor)|Microlibrary for UI anchoring.|⭐ 100+|0.18|
+|[bevy\_healthbar\_3d](https://github.com/sparten11740/bevy_health_bar3d)|Billboard health bars as shaders.|⭐ 150+|0.18|
+|[transform-gizmo](https://github.com/urholaukkarinen/transform-gizmo)|3D transformation gizmo widget.|⭐ 200+|0.18|
+|[bevy\_ui\_text\_input](https://github.com/ickshonpe/bevy_ui_text_input)|Text input using cosmic text.|⭐ 100+|0.18|
+|[bevy\_simple\_text\_input](https://github.com/rparrett/bevy_simple_text_input)|Simple single-line text input widget.|⭐ 100+|0.18|
+|[bevy\_pretty\_text](https://github.com/void-scape/pretty-text)|Text2D effects library.|⭐ 100+|0.18|
+|[bevy\_rich\_text3d](https://github.com/mintlu8/bevy_rich_text3d)|Mesh-based 3D text implementation.|⭐ 100+|0.18|
 |**🏛️ `bevy\_ui` + `bevy\_feathers`**|Bevy's own emerging first-party styled widget set (buttons, checkboxes, sliders, scrollbars…), shipped experimentally starting in 0.17 to eventually power both the official Editor and regular app UI. The closest thing to an "official" answer here.|—|0.17+|
 |**🏛️ `ViewportNode`**|Render camera output directly inside a UI node.|—|0.17+|
 |**🏛️ `EditableText`**|Built-in text entry with cursor, selection, clipboard, IME, multiline, and bidirectional text support.|—|0.19+|
@@ -268,8 +268,8 @@ fn main() {
 |[big-brain](https://github.com/zkat/big-brain)|A Utility AI library (scorers + actions + "thinkers"). Probably the most widely used general-purpose game-AI crate in the ecosystem today.|⭐ 1.3k|0.19|
 |[Bonsai](https://github.com/Sollimann/bonsai)|Behaviour trees for AI agents.|⭐ 400+|0.18|
 |[seldom\_state](https://github.com/Seldom-SE/seldom_state)|Component-based finite state machine — good for player/enemy state and driving animation. Pairs well alongside big-brain rather than competing with it.|⭐ 200+|0.18|
-|\[bevy\_behave] (https://github.com/）|Behaviour trees with on-demand entity spawning for task nodes.|⭐ 150+|0.18|
-|\[bevy\_gauge] (https://github.com/）|Flexible stat and modifier system (RPG stats).|⭐ 100+|0.18|
+|[bevy\_behave](https://github.com/RJ/bevy_behave)|Behaviour trees with on-demand entity spawning for task nodes.|⭐ 150+|0.18|
+|[bevy\_gauge](https://github.com/DEMIURGE-studio/bevy_gauge)|Flexible stat and modifier system (RPG stats).|⭐ 100+|0.18|
 |[vleue\_navigator](https://github.com/vleue/vleue_navigator)|Navmesh pathfinding for Bevy.|⭐ 200+|0.19|
 |[bevy\_northstar](https://github.com/JtotheThree/bevy_northstar)|Hierarchical pathfinding, a good fit for grid/tile-based games.|⭐ 100+|0.18|
 
@@ -282,12 +282,12 @@ fn main() {
 |[bevy\_ecs\_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap)|The standard ECS-friendly tile-rendering base layer for 2D games — still actively maintained. One tile = one entity, chunked rendering, isometric/hex, GPU animations.|⭐ 1.3k|0.19|
 |[bevy\_ecs\_ldtk](https://github.com/Trouv/bevy_ecs_ldtk)|Editor-format integration for LDtk maps, built on top of `bevy\_ecs\_tilemap`.|⭐ 400+|0.19|
 |[bevy\_ecs\_tiled](https://github.com/adrien-bon/bevy_ecs_tiled)|Editor-format integration for Tiled maps, built on top of `bevy\_ecs\_tilemap`.|⭐ 300+|0.19|
-|\[bevy\_simple\_tilemap] (https://github.com/）|Refreshingly simple tilemap when you just need a grid of rectangular tiles.|⭐ 150+|0.19|
-|\[bevy\_procedural\_tilemaps] (https://github.com/）|Wave Function Collapse / Model Synthesis tile generation.|⭐ 100+|0.18|
-|\[bevy\_rpack] (https://github.com/）|Create tilemaps in seconds from packed sprites.|⭐ 100+|0.18|
+|[bevy\_simple\_tilemap](https://github.com/forbjok/bevy_simple_tilemap)|Refreshingly simple tilemap when you just need a grid of rectangular tiles.|⭐ 150+|0.19|
+|[bevy\_procedural\_tilemaps](https://github.com/jamesfebin/bevy_procedural_tilemaps)|Wave Function Collapse / Model Synthesis tile generation.|⭐ 100+|0.18|
+|[bevy\_rpack](https://github.com/Leinnan/rpack)|Create tilemaps in seconds from packed sprites.|⭐ 100+|0.18|
 |[bevy\_trenchbroom](https://github.com/Noxmore/bevy_trenchbroom)|TrenchBroom (the Quake map editor) integration, `.map`/`.bsp` loading. Great if you want old-school FPS-style level geometry.|⭐ 200+|0.18|
 |[bevy-yoleck](https://github.com/idanarye/bevy-yoleck)|"Your Own Level Editor Creation Kit" — for building a level editor into your own game.|⭐ 150+|0.18|
-|\[skein] (https://github.com/）|Convert glTF extras to Bevy Components via reflection.|⭐ 100+|0.18|
+|[skein](https://github.com/rust-adventure/skein)|Convert glTF extras to Bevy Components via reflection.|⭐ 100+|0.18|
 |**🏛️ `TilemapChunk`**|First-party fast chunk-based tilemap rendering.|—|0.17+|
 
 \---
@@ -298,9 +298,9 @@ fn main() {
 |-|-|:-:|:-:|
 |[bevy\_seedling](https://github.com/CorvusPrudens/bevy_seedling)|Newer integration built on the Firewheel audio engine, with a more modern node-graph style mixer. Effects routing, HRTF spatialization, custom audio processors, and web backend support.|⭐ 200+|0.19|
 |[bevy\_kira\_audio](https://github.com/NiklasEi/bevy_kira_audio)|Swaps in the Kira audio engine for real mixing, channels, looping and spatial audio — the de facto standard beyond Bevy's built-in audio.|⭐ 600+|0.19|
-|\[bevy\_fmod] (https://github.com/）|Idiomatic FMOD audio engine integration.|⭐ 200+|0.18|
-|\[bevy\_oddio] (https://github.com/）|Oddio backend for advanced 3D spatial sound.|⭐ 100+|0.18|
-|\[bevy\_fundsp] (https://github.com/）|Fundsp backend for sound synthesis and effects.|⭐ 100+|0.18|
+|[bevy\_fmod](https://github.com/Salzian/bevy_fmod)|Idiomatic FMOD audio engine integration.|⭐ 200+|0.18|
+|[bevy\_oddio](https://github.com/harudagondi/bevy_oddio)|Oddio backend for advanced 3D spatial sound.|⭐ 100+|0.18|
+|[bevy\_fundsp](https://github.com/harudagondi/bevy_fundsp)|Fundsp backend for sound synthesis and effects.|⭐ 100+|0.18|
 
 > 🎵 \*\*bevy\_seedling\*\* is the new advanced audio solution displacing `bevy\_kira\_audio` for many projects.
 
@@ -312,10 +312,10 @@ fn main() {
 |-|-|:-:|:-:|
 |[bevy\_tweening](https://github.com/djeedai/bevy_tweening)|Tween any component/asset field with lenses, sequences, and parallel animations.|⭐ 600+|0.19|
 |[bevy\_easings](https://github.com/vleue/bevy_easings)|Similar easing-driven animation helper.|⭐ 300+|0.19|
-|\[bevy\_tween] (https://github.com/）|Flexible tweening with procedural and keyframe animation support.|⭐ 200+|0.19|
+|[bevy\_tween](https://github.com/Multirious/bevy_tween)|Flexible tweening with procedural and keyframe animation support.|⭐ 200+|0.19|
 |[bevy\_animation\_graph](https://github.com/mbrea-c/bevy_animation_graph)|Node-graph-based animation blending, closer to what Unity's or Unreal's animation graphs offer.|⭐ 150+|0.18|
-|\[bevy\_lookup\_curve] (https://github.com/）|Editable lookup curves for animation.|⭐ 100+|0.18|
-|\[bevy\_spritesheet\_animation] (https://github.com/）|Easy 2D/3D spritesheet animation.|⭐ 200+|0.19|
+|[bevy\_lookup\_curve](https://github.com/villor/bevy_lookup_curve)|Editable lookup curves for animation.|⭐ 100+|0.18|
+|[bevy\_spritesheet\_animation](https://github.com/merwaaan/bevy_spritesheet_animation)|Easy 2D/3D spritesheet animation.|⭐ 200+|0.19|
 
 \---
 
@@ -326,20 +326,20 @@ fn main() {
 |[bevy\_asset\_loader](https://github.com/NiklasEi/bevy_asset_loader)|Organizes asset loading behind app states, so you're not hand-rolling loading-screen bookkeeping. Declarative loading with `AssetCollection` derive.|⭐ 700+|0.19|
 |[bevy\_proto](https://github.com/MrGVSV/bevy_proto)|Load entity definitions from files with inheritance and hierarchies, similar to Unity prefabs.|⭐ 400+|0.19|
 |[bevy\_common\_assets](https://github.com/NiklasEi/bevy_common_assets)|Drop-in loaders for common data formats (RON, JSON, YAML, etc), handy for data-driven game content.|⭐ 200+|0.19|
-|\[bevy\_embedded\_assets] (https://github.com/）|Embed assets directly into your binary.|⭐ 150+|0.19|
-|\[bevy-persistent] (https://github.com/）|Easily manage resources that persist across sessions.|⭐ 200+|0.18|
-|\[bevy\_simple\_prefs] (https://github.com/）|Persist multiple Resources to a single file.|⭐ 100+|0.18|
-|\[bevy\_assetio\_zip] (https://github.com/）|Load assets from obfuscated zip bundles.|⭐ 100+|0.18|
-|\[bevy\_obj] (https://github.com/）|Wavefront OBJ mesh asset loader.|⭐ 150+|0.19|
-|\[bevy\_svg] (https://github.com/）|SVG drawing for Bevy (simple but functional).|⭐ 150+|0.18|
-|\[moonshine\_save] (https://github.com/）|Save/load framework for Bevy game engine.|⭐ 200+|0.19|
-|\[leafwing\_manifest] (https://github.com/）|Data-driven content generation for Bevy.|⭐ 150+|0.19|
+|[bevy\_embedded\_assets](https://github.com/vleue/bevy_embedded_assets)|Embed assets directly into your binary.|⭐ 150+|0.19|
+|[bevy-persistent](https://github.com/umut-sahin/bevy-persistent)|Easily manage resources that persist across sessions.|⭐ 200+|0.18|
+|[bevy\_simple\_prefs](https://github.com/rparrett/bevy_simple_prefs)|Persist multiple Resources to a single file.|⭐ 100+|0.18|
+|[bevy\_assetio\_zip](https://github.com/katharostech/bevy_assetio_zip)|Load assets from obfuscated zip bundles.|⭐ 100+|0.18|
+|[bevy\_obj](https://github.com/AmionSky/bevy_obj)|Wavefront OBJ mesh asset loader.|⭐ 150+|0.19|
+|[bevy\_svg](https://github.com/Weasy666/bevy_svg)|SVG drawing for Bevy (simple but functional).|⭐ 150+|0.18|
+|[moonshine\_save](https://github.com/Zeenobit/moonshine_save)|Save/load framework for Bevy game engine.|⭐ 200+|0.19|
+|[leafwing\_manifest](https://github.com/Leafwing-Studios/leafwing_manifest)|Data-driven content generation for Bevy.|⭐ 150+|0.19|
 |[bevy\_rand](https://github.com/Bluefinger/bevy_rand)|`rand`, but wired into Bevy's ECS — reflectable, state/scene-friendly RNG resources instead of one bare global generator.|⭐ 200+|0.19|
-|\[bevy\_shuffle\_bag] (https://github.com/）|Shuffle bag for non-repeating random picks.|⭐ 100+|0.19|
-|\[bevy\_play\_card] (https://github.com/）|Card game utilities for Bevy.|⭐ 100+|0.19|
-|\[bevy\_http\_client] (https://github.com/）|Simple HTTP client for native and WASM.|⭐ 100+|0.19|
-|\[bevy\_web\_asset] (https://github.com/）|Load assets over HTTP in WASM builds.|⭐ 150+|0.18|
-|\[bevy\_mod\_reqwest] (https://github.com/）|Reqwest-based HTTP client for Bevy.|⭐ 100+|0.18|
+|[bevy\_shuffle\_bag](https://github.com/janhohenheim/bevy_shuffle_bag)|Shuffle bag for non-repeating random picks.|⭐ 100+|0.19|
+|[bevy\_play\_card](https://github.com/Rabbival/bevy_play_card)|Card game utilities for Bevy.|⭐ 100+|0.19|
+|[bevy\_http\_client](https://github.com/foxzool/bevy_http_client)|Simple HTTP client for native and WASM.|⭐ 100+|0.19|
+|[bevy\_web\_asset](https://github.com/johanhelsing/bevy_web_asset)|Load assets over HTTP in WASM builds.|⭐ 150+|0.18|
+|[bevy\_mod\_reqwest](https://github.com/TotalKrill/bevy_mod_reqwest)|Reqwest-based HTTP client for Bevy.|⭐ 100+|0.18|
 
 \---
 
@@ -348,8 +348,8 @@ fn main() {
 |Crate|Description|⭐|🏷️|
 |-|-|:-:|:-:|
 |[bevy\_hanabi](https://github.com/djeedai/bevy_hanabi)|GPU particle system — millions of particles, trails, collisions, force fields, 2D/3D. The ecosystem's closest thing to a "standard" particle plugin.|⭐ 1.4k|0.19|
-|\[bevy\_firework] (https://github.com/）|CPU-driven, batch-rendered particles.|⭐ 200+|0.19|
-|\[bevy\_enoki] (https://github.com/）|2D particles with custom materials. WASM/WebGL2 friendly.|⭐ 150+|0.19|
+|[bevy\_firework](https://github.com/mbrea-c/bevy_firework)|CPU-driven, batch-rendered particles.|⭐ 200+|0.19|
+|[bevy\_enoki](https://github.com/Lommix/bevy_enoki)|2D particles with custom materials. WASM/WebGL2 friendly.|⭐ 150+|0.19|
 
 \---
 
@@ -358,9 +358,9 @@ fn main() {
 |Crate|Description|⭐|🏷️|
 |-|-|:-:|:-:|
 |[Particular](https://github.com/Canleskis/particular)|N-body simulation with great performance.|⭐ 300+|0.18|
-|\[big\_space] (https://github.com/）|Floating origin for spaces larger than the universe.|⭐ 200+|0.19|
-|\[noiz] (https://github.com/）|Configurable, blazingly fast noise library for Bevy.|⭐ 150+|0.19|
-|\[hexx] (https://github.com/）|Hexagonal tools library for Rust.|⭐ 300+|0.19|
+|[big\_space](https://github.com/aevyrie/big_space)|Floating origin for spaces larger than the universe.|⭐ 200+|0.19|
+|[noiz](https://github.com/ElliottjPierce/noiz)|Configurable, blazingly fast noise library for Bevy.|⭐ 150+|0.19|
+|[hexx](https://github.com/ManevilleF/hexx)|Hexagonal tools library for Rust.|⭐ 300+|0.19|
 
 \---
 
@@ -370,14 +370,14 @@ fn main() {
 |-|-|:-:|:-:|
 |[bevy\_game\_template](https://github.com/niklasei/bevy_game_template)|Full game template: CI/CD for web, Windows, Linux, macOS, iOS, Android.|⭐ 1.1k|0.19|
 |[bevy\_github\_ci\_template](https://github.com/bevyengine/bevy_github_ci_template)|GitHub Actions CI/CD template with itch.io publishing.|⭐ 500+|0.19|
-|\[bevy\_new\_2d] (https://github.com/）|Official 2D game starter template.|⭐ 300+|0.19|
-|\[bevy\_quickstart] (https://github.com/）|Official quickstart template.|⭐ 200+|0.19|
-|\[bevy\_space] (https://github.com/）|Space game starter template.|⭐ 150+|0.19|
-|\[limitpush] (https://github.com/）|Another Bevy game template.|⭐ 100+|0.19|
+|[bevy\_new\_2d](https://github.com/TheBevyFlock/bevy_new_2d)|Official 2D game starter template.|⭐ 300+|0.19|
+|[bevy\_quickstart](https://github.com/TheBevyFlock/bevy_quickstart)|Official quickstart template.|⭐ 200+|0.19|
+|[bevy\_space](https://github.com/perlindgren/bevy-space)|Space game starter template.|⭐ 150+|0.19|
+|[limitpush](https://github.com/heydocode/limitpush)|Another Bevy game template.|⭐ 100+|0.19|
 |[bevy\_lint](https://github.com/TheBevyFlock/bevy_cli)|Bevy-specific linter with auto-fixes. CI-ready.|⭐ 300+|0.19|
 |[Bevy CLI](https://github.com/TheBevyFlock/bevy_cli)|Scaffolding, web builds, linting.|⭐ 300+|0.19|
-|\[bevy\_framepace] (https://github.com/）|Framepacing and framelimiting for Bevy.|⭐ 200+|0.19|
-|\[bevy\_console] (https://github.com/）|Half-Life inspired in-game console with clap parsing.|⭐ 200+|0.18|
+|[bevy\_framepace](https://github.com/aevyrie/bevy_framepace)|Framepacing and framelimiting for Bevy.|⭐ 200+|0.19|
+|[bevy\_console](https://github.com/RichoDemus/bevy-console)|Half-Life inspired in-game console with clap parsing.|⭐ 200+|0.18|
 |[bevy\_mod\_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump)|Visualize system schedules as graphs.|⭐ 400+|0.19|
 |[flamegraph](https://github.com/flamegraph-rs/flamegraph)|Performance profiling with easy-to-read reports.|⭐ 2.9k|Any|
 |[Criterion](https://github.com/bheisler/criterion.rs)|Benchmarking library for Rust.|⭐ 3.5k|Any|
@@ -442,9 +442,9 @@ Most jam games are open source — great for real-world usage examples.
 |[Bevy Jam 7](https://itch.io/jam/bevy-jam-7)|Feb 2026|"Extremely Incohesive Fever Dream"|
 |[Bevy Spooky Jam](https://itch.io/jam/bevy-spooky-jam)|Off-cycle|Spooky themed|
 
-> 🎮 See \[itch.io's "bevy" tag] (https://itch.io/games/tag-bevy) for every game tagged Bevy on itch, jam or not — the easiest way to browse broadly and catch whatever's newest.
+> 🎮 See [itch.io's "bevy" tag](https://itch.io/games/tag-bevy) for every game tagged Bevy on itch, jam or not — the easiest way to browse broadly and catch whatever's newest.
 
-> 📋 See \[Awesome Prod] (https://github.com/Vrixyz/bevy\_awesome\_prod) for a more complete list of production projects using Bevy commercially (analysis/observability tooling, CAD, streaming renderers, and more).
+> 📋 See [Awesome Prod](https://github.com/Vrixyz/bevy_awesome_prod) for a more complete list of production projects using Bevy commercially (analysis/observability tooling, CAD, streaming renderers, and more).
 
 \---
 
@@ -471,12 +471,12 @@ Most jam games are open source — great for real-world usage examples.
 |Crate|Description|⭐|🏷️|
 |-|-|:-:|:-:|
 |[bevy\_combat](https://github.com/ElliotB256/bevy_combat)|Combat system utilities for Bevy.|⭐ 200+|0.18|
-|\[bevy-in-web-worker] (https://github.com/）|Run Bevy in a Web Worker, interact with HTML.|⭐ 100+|0.19|
-|\[bevy\_flurx] (https://github.com/）|Coroutines in Bevy.|⭐ 150+|0.18|
-|\[beet] (https://github.com/）|Bevy application development and publishing systems.|⭐ 100+|0.18|
-|\[bevy\_auto\_plugin] (https://github.com/）|Auto-registration macros for plugins.|⭐ 100+|0.19|
-|\[bevy\_ios\_safearea] (https://github.com/）|Query iOS device safe area insets.|⭐ 100+|0.18|
-|\[rmv-bevy-testing-tools] (https://github.com/）|Tools to make testing Bevy stuff easier.|⭐ 100+|0.18|
+|[bevy-in-web-worker](https://github.com/jinleili/bevy-in-web-worker)|Run Bevy in a Web Worker, interact with HTML.|⭐ 100+|0.19|
+|[bevy\_flurx](https://github.com/not-elm/bevy_flurx)|Coroutines in Bevy.|⭐ 150+|0.18|
+|[beet](https://github.com/mrchantey/beet)|Bevy application development and publishing systems.|⭐ 100+|0.18|
+|[bevy\_auto\_plugin](https://github.com/StrikeForceZero/bevy_auto_plugin)|Auto-registration macros for plugins.|⭐ 100+|0.19|
+|[bevy\_ios\_safearea](https://github.com/rustunit/bevy_ios_safearea)|Query iOS device safe area insets.|⭐ 100+|0.18|
+|[rmv-bevy-testing-tools](https://github.com/rmvermeulen/rmv-bevy-testing-tools)|Tools to make testing Bevy stuff easier.|⭐ 100+|0.18|
 
 \---
 
@@ -543,7 +543,7 @@ Most jam games are open source — great for real-world usage examples.
 **Last updated:** August 2026  
 **Bevy version:** 0.19
 
-[!\[Bevy] (https://img.shields.io/badge/Made%20with-Bevy-ff69b4?logo=rust\&style=flat-square)](https://bevy.org/)
+[![Bevy](https://img.shields.io/badge/Made%20with-Bevy-ff69b4?logo=rust&style=flat-square)](https://bevy.org/)
 
 </div>
 

@@ -26,7 +26,7 @@
 > [!TIP]
 > The project site moved from `bevyengine.org` to `bevy.org` — update any old bookmarks.
 
-\---
+
 
 ## 📑 Table of Contents
 

@@ -21,10 +21,10 @@
 
 **Total Entries:** 200+ | **Categories:** 20+ | **Maintained by:** The Bevy Community
 
+</div>
+
 > [!TIP]
 > The project site moved from `bevyengine.org` to `bevy.org` — update any old bookmarks.
-
-</div>
 
 \---
 
@@ -661,9 +661,6 @@ Most jam games are open source — great for real-world usage examples.
 
 ## 🤝 Contributing
 
-> [!NOTE]
-> This list is community-curated. PRs welcome!
-
 **Criteria for inclusion:**
 
 * ✅ Actively maintained (or clearly marked unmaintained)
@@ -678,4 +675,7 @@ Most jam games are open source — great for real-world usage examples.
 [![Bevy](https://img.shields.io/badge/Made%20with-Bevy-ff69b4?logo=rust&style=flat-square)](https://bevy.org/)
 
 </div>
+
+> [!NOTE]
+> This list is community-curated. PRs welcome!
 

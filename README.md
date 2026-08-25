@@ -1,9 +1,10 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
   ║                         AWESOME BEVY — 2026 EDITION                          ║
-  ║           A Curated List of Plugins, Tools, Games \& Resources                ║
+  ║           A Curated List of Plugins, Tools, Games & Resources                ║
   ║                    for the Bevy Game Engine (Rust)                           ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 

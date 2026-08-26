@@ -490,6 +490,8 @@ fn main() {
 |Game|Description|Platform|
 |-|-|:-:|
 |[Tiny Glade](https://store.steampowered.com/app/2198150/Tiny_Glade/)|Relaxing castle doodling. Custom renderer + Bevy ECS. Picked up nominations at the 2024 Steam Awards, the 2024 Independent Games Festival, and the 2025 BAFTA Games Awards (Technical Achievement).|Steam|
+|[Gnomes](https://store.steampowered.com/app/3133060/Gnomes/)|Turn-based tower defense roguelike by DYSTOPIAN — build, farm, and defend your village from endless goblin hordes across procedurally generated biomes. Overwhelmingly Positive on Steam.|Steam|
+|[Fairy Garden](https://ionlara.itch.io/fairy-garden)|Cozy idle colony game by Ion_Dev — manage a tiny fairy town that gathers nectar and grows alongside you while you work.|Itch.io|
 |[Tunnet](https://puzzled-squid.itch.io/tunnet)|Underground computer network builder.|Itch.io|
 |[LongStory 2](https://store.steampowered.com/app/2427820/LongStory_2/)|Sequel to the award-winning LongStory visual novel/dating sim.|Steam|
 |[POLDERS / Waterwolf](https://store.steampowered.com/)|Dutch city builder — fight the sea.|Steam|

@@ -134,6 +134,7 @@ fn main() {
 |[bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls)|In-game GUI editor with hierarchy and viewport.|⭐ 600+|0.19|
 |[bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump)|System execution graph visualizer for schedules.|⭐ 400+|0.19|
 |[bevy_egui](https://github.com/vladbat00/bevy_egui)|Egui integration for Bevy — immediate mode UI. The default pick for debug panels and quick editor-style tooling.|⭐ 1.4k|0.19|
+|[Renzora Engine](https://github.com/renzora/engine)|Full 2D \& 3D game engine and scene editor for Bevy.|⭐ 300+|0.19|
 |[blenvy](https://github.com/kaosat-dev/blenvy)|Blender addon + Bevy code for editing Bevy components directly in Blender.|⭐ 400+|0.18|
 |[bevy_mod_scripting](https://github.com/makspll/bevy_mod_scripting)|Scripting support for Bevy (Lua, Rhai, etc.).|⭐ 300+|0.18|
 |[jackdaw](https://github.com/zkat/jackdaw)|Bevy scene editor with hierarchy, inspector, and 3D viewport.|⭐ 200+|0.18|
